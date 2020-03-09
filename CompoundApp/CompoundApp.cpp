@@ -1,6 +1,12 @@
-// CompoundApp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+CSCI 182 - Assignment due 3/6
+Compound App.cpp
+Comppound class with copy and assignment constructors
+The later are not working properly
 
+Delwys Glokpor
+v1.0 3/6/2020
+*/
 #include <iostream>
 #include "Compound.h"
 
